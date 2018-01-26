@@ -3019,7 +3019,7 @@ select[multiple].input-lg {
           user-select: none;
   background-image: none;
   border: 1px solid transparent;
-  border-radius: 4px;
+  border-radius: 0px;
 }
 .btn:focus,
 .btn:active:focus,
@@ -3172,7 +3172,7 @@ fieldset[disabled] .btn-primary.focus {
 }
 .btn-success {
   color: #fff;
-  background-color: #5cb85c;
+  background-color: #8a1a3f;
   border-color: #4cae4c;
 }
 .btn-success:focus,
@@ -3183,7 +3183,7 @@ fieldset[disabled] .btn-primary.focus {
 }
 .btn-success:hover {
   color: #fff;
-  background-color: #449d44;
+  background-color: #a21845;
   border-color: #398439;
 }
 .btn-success:active,
